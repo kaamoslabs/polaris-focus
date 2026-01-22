@@ -1,12 +1,12 @@
-# Attentional Design (ATTEND)
+# Attentional Design™ (ATTEND)
 
 ## Overview
 
-Attentional Design is a research-driven framework that translates neuroscience, psychology, and philosophy into tools for everyday life. It shifts focus away from urgency and distraction, protecting the mental space needed for meaningful work.
+Attentional Design™ is a research-driven framework that translates neuroscience, psychology, and philosophy into tools for everyday life. It shifts focus away from urgency and distraction, protecting the mental space needed for meaningful work.
 
 ## Philosophy
 
-Time is not just a countdown – it is an experience. Attentional Design reframes how we relate to time and attention, creating technology that enhances human potential rather than draining it.
+Time is not just a countdown – it is an experience. Attentional Design™ reframes how we relate to time and attention, creating technology that enhances human potential rather than draining it.
 
 ## Core Principles
 
@@ -16,7 +16,7 @@ Replace countdowns with visual metaphors that reduce time anxiety and create pre
 
 Traditional timers use numeric representations that create urgency. Countdowns, minute tracking, and rigid schedules increase time pressure and fragment attention. 
 
-Attentional Design uses symbolic time – visual metaphors like dissolving asteroids – that represent progress without numeric pressure. This shifts users from racing against time to being present in their work.
+Attentional Design™ uses symbolic time – visual metaphors like dissolving asteroids – that represent progress without numeric pressure. This shifts users from racing against time to being present in their work.
 
 ### Reduced Cognitive Load
 
@@ -28,7 +28,7 @@ Every decision consumes attentional resources. Traditional productivity tools bu
 - Constant notifications and choices
 - Metrics that require interpretation
 
-Attentional Design reduces cognitive load through:
+Attentional Design™ reduces cognitive load through:
 - Minimal interface with clear purpose
 - Few, meaningful choices
 - No unnecessary notifications
@@ -44,7 +44,7 @@ Many focus tools rely on:
 - Social features that create pressure
 - Leaderboards and streaks that fragment attention
 
-Attentional Design provides:
+Attentional Design™ provides:
 - Gentle visual anchors that guide without commanding
 - Completion signals that respect flow state
 - No competitive elements or social pressure
@@ -60,13 +60,13 @@ Digital environments are designed to capture attention through:
 - Endless content that prevents disengagement
 - Metrics that turn focus into performance
 
-Attentional Design protects attention through:
+Attentional Design™ protects attention through:
 - Minimal interface that reduces distraction
 - Visual anchors that maintain presence
 - No notifications or interruptions
 - Quiet boundaries around focus time
 
-## The Problem Attentional Design Addresses
+## The Problem Attentional Design™ Addresses
 
 ### Time Anxiety
 
@@ -84,11 +84,11 @@ Interruptions scatter attention and increase fatigue. Every notification, option
 
 Complex interfaces, multiple modes, and constant decisions exhaust attentional resources. Users burn out and lose the state of flow needed for deep, meaningful work.
 
-## How Attentional Design Works
+## How Attentional Design™ Works
 
 ### Foundation in Research
 
-Attentional Design is grounded in:
+Attentional Design™ is grounded in:
 - **Neuroscience** – Understanding how attention systems function and fatigue
 - **Psychology** – Flow states, optimal experience, cognitive load
 - **Philosophy** – Time as experience rather than measurement
@@ -116,7 +116,7 @@ Practice: Boundaries that shield deep work from distraction
 
 ## Implementation in Polaris Focus™
 
-Polaris Focus™ is the first application built on Attentional Design principles:
+Polaris Focus™ is the first application built on Attentional Design™ principles:
 
 - **Dissolving asteroids** represent time symbolically without countdowns
 - **Session selection** is minimal with clear purpose
@@ -127,15 +127,15 @@ Polaris Focus™ is the first application built on Attentional Design principles
 
 ## Vision
 
-Attentional Design provides a framework for creating technology that serves human needs rather than exploiting them. By understanding attention, flow, and presence, we can build tools that enhance rather than drain cognitive resources.
+Attentional Design™ provides a framework for creating technology that serves human needs rather than exploiting them. By understanding attention, flow, and presence, we can build tools that enhance rather than drain cognitive resources.
 
 ## Learn More
 
 - [Research](RESEARCH.md) – Scientific foundation
 - [Features](FEATURES.md) – Implementation in Polaris
-- [Website](https://polarisfocus.com/research/) – Full whitepaper and references
+- [Website](https://polarisfocus.com/science/) – Full whitepaper and references
 
 ---
 
-**Attentional Design** is a research framework developed by Kaamos Labs LLC.
+**Attentional Design™** is a research framework developed by Kaamos Labs LLC.
 

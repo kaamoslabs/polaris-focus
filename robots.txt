@@ -1,4 +1,5 @@
 # robots.txt for https://github.com/kaamoslabs/polaris-focus
+# Last updated: 2026-01-22
 
 # Allow all web crawlers to index this repository
 # This repository contains public documentation and trademark information

@@ -1,6 +1,6 @@
 # All Rights Reserved
 
-Copyright (c) 2024 Kaamos Labs
+Copyright (c) 2026 Kaamos Labs
 
 ## NOTICE
 

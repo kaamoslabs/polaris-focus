@@ -2,7 +2,7 @@
 
 ## Scientific Basis
 
-Polaris Focus™ is grounded in research on attention, cognition, and human performance. Our framework – Attentional Design (ATTEND) – draws from neuroscience, psychology, and philosophy to create tools that enhance focus and reduce urgency.
+Polaris Focus™ is grounded in research on attention, cognition, and human performance. Our framework – Attentional Design™ (ATTEND) – draws from neuroscience, psychology, and philosophy to create tools that enhance focus and reduce urgency.
 
 ## Core Findings
 
@@ -118,20 +118,20 @@ American Psychological Association (2024, May 12). Speaking of Psychology Podcas
 
 ## The Whitepaper
 
-Our full research framework is detailed in the Attentional Design whitepaper, which explores how neuroscience, psychology, and philosophy inform effective focus tools.
+Our full research framework is detailed in the Attentional Design™ whitepaper, which explores how neuroscience, psychology, and philosophy inform effective focus tools.
 
-For the complete whitepaper and detailed research methodology, visit: [polarisfocus.com/research/](https://polarisfocus.com/research/)
+For the complete whitepaper and detailed research methodology, visit: [polarisfocus.com/science/](https://polarisfocus.com/science/)
 
 ## Research Framework
 
-Attentional Design (ATTEND) translates research into practice through four core principles:
+Attentional Design™ (ATTEND) translates research into practice through four core principles:
 
 1. **Symbolic Time** – Replace countdowns with visual metaphors
 2. **Reduced Cognitive Load** – Minimize decision fatigue
 3. **Gentle Guidance** – Support through subtle cues
 4. **Attention Protection** – Create boundaries that shield deep work
 
-Learn more: [Attentional Design](ATTENTIONAL_DESIGN.md) | [Features](FEATURES.md) | [Website](https://polarisfocus.com/research/)
+Learn more: [Attentional Design](ATTENTIONAL_DESIGN.md) | [Features](FEATURES.md) | [Website](https://polarisfocus.com/science/)
 
 ---
 

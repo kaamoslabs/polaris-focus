@@ -27,11 +27,11 @@ Kaamos Labs LLC is the company behind Polaris Focus™. We develop cognitive tec
 - **No Metrics or Streaks** – Focus is a practice, not a performance
 - **ADHD-Friendly** – Designed for neurodivergent minds with flexible pacing
 - **Offline Operation** – Works completely offline without setup
-- **Attentional Design** – Research-driven framework that protects attention and reduces urgency
+- **Attentional Design™** – Research-driven framework that protects attention and reduces urgency
 
 ## Research Foundation
 
-Polaris Focus™ is built on Attentional Design (ATTEND), a research framework that draws from:
+Polaris Focus™ is built on Attentional Design™ (ATTEND), a research framework that draws from:
 - Neuroscience and cognitive science
 - Flow state psychology
 - Philosophy of time

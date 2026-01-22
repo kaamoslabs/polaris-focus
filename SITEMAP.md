@@ -2,6 +2,8 @@
 
 This document lists all public URLs for Polaris Focus™ to ensure consistent indexing by search engines and crawlers.
 
+**Last updated:** January 22, 2026
+
 ## Primary Website
 
 ### Main Website
@@ -12,20 +14,20 @@ This document lists all public URLs for Polaris Focus™ to ensure consistent in
 - **https://polarisfocus.com/features/** – Product features and capabilities
 - **https://polarisfocus.com/vision/** – Mission, manifesto, and vision
 
-## Research & Science
+## Science & Research
 
-- **https://polarisfocus.com/research/** – Research overview and whitepaper
-- **https://polarisfocus.com/research/attentional-design/** – Attentional Design framework
-- **https://polarisfocus.com/research/whitepaper/** – Research whitepaper
-- **https://polarisfocus.com/research/references/** – Studies and citations
+- **https://polarisfocus.com/science/** – Science overview and Attentional Design™
+- **https://polarisfocus.com/science/#key-findings** – Key research findings
+- **https://polarisfocus.com/science/#whitepaper** – Research whitepaper
+- **https://polarisfocus.com/science/#references** – Studies and citations
 
 ## Support
 
 - **https://polarisfocus.com/support/** – Help center
-- **https://polarisfocus.com/support/contact/** – Contact support
-- **https://polarisfocus.com/support/press/** – Press inquiries
-- **https://polarisfocus.com/privacy/** – Privacy policy
-- **https://polarisfocus.com/terms/** – Terms of service
+- **https://polarisfocus.com/contact/** – Contact support
+- **https://polarisfocus.com/press/** – Press inquiries
+- **https://polarisfocus.com/legal/privacy/** – Privacy policy
+- **https://polarisfocus.com/legal/terms/** – Terms of service
 
 ## Vision & Company
 
@@ -62,9 +64,9 @@ All documentation in this repository:
 
 ## Legal & Policy Pages
 
-- **https://polarisfocus.com/privacy/** – Privacy policy
-- **https://polarisfocus.com/terms/** – Terms of service
-- **https://polarisfocus.com/data-request/** – Data request form
+- **https://polarisfocus.com/legal/privacy/** – Privacy policy
+- **https://polarisfocus.com/legal/terms/** – Terms of service
+- **https://polarisfocus.com/data-request/** – Data Requests – Access, Correction, and Deletion
 
 ## Notes for Crawlers
 

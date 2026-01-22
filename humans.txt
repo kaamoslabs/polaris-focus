@@ -8,7 +8,7 @@
 
 # SITE
 
-    Last update: 2024/01/01
+    Last update: 2026/01/22
     Standards: HTML5, CSS3, Accessibility
     Components: Modern Web Technologies
     Software: Kaamos Labs Development Tools
@@ -18,7 +18,7 @@
     Product: Polaris Focus™
     Brand: Polaris Focus™
     Trademark Owner: Kaamos Labs
-    Copyright: 2024 Kaamos Labs, All Rights Reserved
+    Copyright: 2026 Kaamos Labs, All Rights Reserved
 
 # THANKS
 
